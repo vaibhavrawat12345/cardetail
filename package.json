@@ -1,0 +1,16 @@
+{
+  "name": "democardetail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "carserver.js",
+  "scripts": {
+    "test": "echo\"Error:notestspecified\"&&exit1",
+    "start": "node carserver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
